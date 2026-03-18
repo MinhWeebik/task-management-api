@@ -1,6 +1,6 @@
 # Hệ thống Quản lý Công việc - REST API
 
-Đây là bài test kỹ thuật cho vị trí Lập trình viên Java, xây dựng REST API cho một hệ thống quản lý công việc đơn giản bằng Spring Boot và JDBC.
+Xây dựng REST API cho một hệ thống quản lý công việc đơn giản bằng Spring Boot.
 
 ## Yêu cầu kỹ thuật
 
